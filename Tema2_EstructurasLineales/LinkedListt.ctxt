@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LinkedListt
+comment1.params=
+comment1.target=LinkedListt()
+comment2.params=algo
+comment2.target=void\ agregar(int)
+comment3.params=pos
+comment3.target=java.lang.Integer\ eliminar(int)
+numComments=4

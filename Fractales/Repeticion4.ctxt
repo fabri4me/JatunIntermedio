@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Repeticion4
+comment1.params=nivel
+comment1.target=int\ triangulosSimples(int)
+comment2.params=nivel
+comment2.target=int\ triangulosCompuestos(int)
+comment3.params=nivel
+comment3.target=int\ numTotal(int)
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EjemploQueueApi
+comment1.params=
+comment1.target=EjemploQueueApi()
+comment2.params=dato
+comment2.target=void\ agregarDato(java.lang.Integer)
+numComments=3

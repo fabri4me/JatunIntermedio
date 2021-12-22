@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ListaEnlazada
+comment1.params=
+comment1.target=ListaEnlazada()
+comment2.params=valor
+comment2.target=void\ add(java.lang.Object)
+comment3.params=valor
+comment3.target=void\ addRec(java.lang.Object)
+comment4.params=valor\ actual
+comment4.target=void\ addRec(java.lang.Object,\ Nodo)
+comment5.params=index
+comment5.target=java.lang.Object\ remove(int)
+comment6.params=
+comment6.target=boolean\ isEmpty()
+comment7.params=
+comment7.target=int\ size()
+numComments=8

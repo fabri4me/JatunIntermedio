@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment1.params=nivel
+comment1.target=int\ trianguloSierpinski(int)
+comment2.params=nivel
+comment2.target=int\ triangulosSimples(int)
+comment3.params=nivel
+comment3.target=int\ triangulosCompuestos(int)
+numComments=4

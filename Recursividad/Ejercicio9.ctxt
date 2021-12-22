@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ejercicio9
+comment1.params=numero
+comment1.target=int\ recNumeroInverso(int)
+comment2.params=numero
+comment2.target=int\ contarDigitos(int)
+comment3.params=numero\ numDig
+comment3.target=int\ recNumeroInverso(int,\ int)
+numComments=4
